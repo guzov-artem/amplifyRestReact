@@ -1,6 +1,6 @@
 {
     "identityPoolName": "amplifyrestreactd61352f2_identitypool_d61352f2",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "amplifd61352f2",
     "userPoolName": "amplifyrestreactd61352f2_userpool_d61352f2",
     "autoVerifiedAttributes": [

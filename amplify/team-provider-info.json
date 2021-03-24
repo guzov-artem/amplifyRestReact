@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyrestreactd61352f2": {}
+      },
+      "function": {
+        "todosLambda": {
+          "deploymentBucketName": "amplify-amplify7cb402be72984-staging-145034-deployment",
+          "s3Key": "amplify-builds/todosLambda-466168724d5761342f6e-build.zip"
+        }
       }
     }
   }
