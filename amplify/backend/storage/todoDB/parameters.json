@@ -1,5 +1,0 @@
-{
-    "tableName": "todoDB",
-    "partitionKeyName": "id",
-    "partitionKeyType": "S"
-}
